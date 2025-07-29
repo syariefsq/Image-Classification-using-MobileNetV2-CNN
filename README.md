@@ -4,7 +4,6 @@
 
 Thanks for stopping by! I created this project to combine my passion for AI with a real-world challenge: making cities cleaner and smarter. I wanted to see how far I could push deep learning to solve a problem that affects millions—road cleanliness.
 
----
 
 ## 🌟 Why I Built This
 
@@ -12,7 +11,7 @@ Thanks for stopping by! I created this project to combine my passion for AI with
 - My goal was to build something practical—helping city planners and cleaning teams make faster, data-driven decisions.
 - I challenged myself to deliver not just a model, but a deployable, user-friendly solution with real impact.
 
----
+
 
 ## 💪 What I Learned & Challenges Overcome
 
@@ -21,7 +20,7 @@ Thanks for stopping by! I created this project to combine my passion for AI with
 - Built an interactive web app and infographic—turning raw predictions into actionable insights for users.
 - Experimented with LLM-powered strategy generation, bridging AI with urban management.
 
----
+
 
 ## 🧰 Tools & Skills Used
 
@@ -33,7 +32,7 @@ Thanks for stopping by! I created this project to combine my passion for AI with
 - **HTML, CSS (Tailwind), JS, Chart.js** for custom, interactive visuals.
 - **Google Gemini API** for AI-driven recommendations.
 
----
+
 
 ## 🚀 Project Highlights
 
@@ -42,7 +41,6 @@ Thanks for stopping by! I created this project to combine my passion for AI with
 - Integrated an AI assistant to generate cleaning strategies for city teams.
 - Designed an interactive infographic to make insights accessible to non-technical users.
 
----
 
 ## 🔭 What’s Next?
 
@@ -51,7 +49,6 @@ Thanks for stopping by! I created this project to combine my passion for AI with
 - Integrate geospatial mapping for city dashboards.
 - Push edge deployment for on-device predictions.
 
----
 
 ## 🤝 Let’s Connect!
 
