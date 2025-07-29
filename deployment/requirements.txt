@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+numpy
+Pillow
+pickle5
+transformers
+datasets
+pandas
+matplotlib
