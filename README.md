@@ -1,3 +1,5 @@
+![Road-Clean-Dirty-Image.png](Road-Clean-Dirty-Image.png)
+
 # 🛣️ Clean/Dirty Road Image Classification — My Deep Learning Story
 
 ## 👋 Hi, I’m Syarief!
